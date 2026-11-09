@@ -15,8 +15,11 @@ ToughLove richtet sich an Erwachsene ab 18 Jahren, die wissen, was sie tun müss
 
 ## Seiten
 - [Startseite](https://toughloveai.com/): Überblick über App, Funktionen und Testphase
-- [Ratgeber](https://toughloveai.com/ratgeber/): Artikel zu Abnehmen, Heißhunger und Gewohnheiten
+- [Ratgeber](https://toughloveai.com/ratgeber/): Artikel zu Abnehmen, Heißhunger, Stressessen, Gewohnheiten, Esstempo und Schlaf
 - [Heißhunger am Abend stoppen](https://toughloveai.com/ratgeber/heisshunger-abends.html)
 - [Abnehmen ohne Kalorienzählen](https://toughloveai.com/ratgeber/abnehmen-ohne-kalorienzaehlen.html)
 - [Stressessen](https://toughloveai.com/ratgeber/stressessen.html)
+- [Gewohnheiten ändern: Wie lange dauert es wirklich – und warum nicht 21 Tage?](https://toughloveai.com/ratgeber/gewohnheiten-aendern.html)
+- [Langsamer essen zum Abnehmen: Was die Studien sagen](https://toughloveai.com/ratgeber/langsam-essen.html)
+- [Schlafmangel und Heißhunger: Warum Schlaf beim Abnehmen hilft](https://toughloveai.com/ratgeber/schlaf-und-abnehmen.html)
 - [Datenschutzerklärung](https://toughloveai.com/datenschutz.html)
