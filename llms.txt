@@ -1,0 +1,22 @@
+# ToughLove
+
+> ToughLove ist ein KI-Coach mit Persönlichkeit für Abnehmen und gesunde Gewohnheiten – ohne Kalorienzählen. Die Android-App (Testphase, Stand November 2026) kombiniert einen Chat-Coach mit Langzeitgedächtnis, einen Teller-Check per Foto, tägliche Mini-Missionen und einen Sprach-Anruf mit dem Coach bei Heißhunger.
+
+ToughLove richtet sich an Erwachsene ab 18 Jahren, die wissen, was sie tun müssten, es aber im Alltag nicht durchhalten. Statt Kalorien zu zählen, arbeitet die App an Gewohnheiten, Auslösern und schwierigen Momenten.
+
+## Wichtigste Fakten
+- Anbieter: ToughLove (Krefeld, Deutschland), Kontakt: hallo@toughloveai.com
+- Plattform: Android (iPhone-Version geplant)
+- Preis: kostenlos in der Testphase; später ist ein Abo geplant
+- Zwei Coach-Persönlichkeiten: „ToughLove“ (direkt, frech, ehrlich, nie verletzend) und „Best Friend“ (warm, unterstützend)
+- Funktionen: KI-Chat mit Gedächtnis, Heißhunger-Knopf mit Sprach-Anruf oder stillem Modus (Atemübung mit Vibration), Teller-Check per Foto ohne Kalorien, Tagesmissionen, Wochen-Wette, Ausreden-Zähler, Brief an das Zukunfts-Ich, Fortschritt jenseits der Waage
+- Datenschutz: Daten auf Servern in Frankfurt am Main (EU); KI-Verarbeitung über Google Gemini (nicht zum Training); keine Werbung; Löschung jederzeit in der App
+- Kein Medizinprodukt; ersetzt keine ärztliche oder therapeutische Beratung; verweist bei Anzeichen von Essstörungen oder Krisen auf professionelle Hilfe
+
+## Seiten
+- [Startseite](https://toughloveai.com/): Überblick über App, Funktionen und Testphase
+- [Ratgeber](https://toughloveai.com/ratgeber/): Artikel zu Abnehmen, Heißhunger und Gewohnheiten
+- [Heißhunger am Abend stoppen](https://toughloveai.com/ratgeber/heisshunger-abends.html)
+- [Abnehmen ohne Kalorienzählen](https://toughloveai.com/ratgeber/abnehmen-ohne-kalorienzaehlen.html)
+- [Stressessen](https://toughloveai.com/ratgeber/stressessen.html)
+- [Datenschutzerklärung](https://toughloveai.com/datenschutz.html)

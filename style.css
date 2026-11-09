@@ -161,7 +161,33 @@ footer a{margin-left:18px}
 .feature .phone .screen{aspect-ratio:auto}
 .feature .phone .screen img{height:auto}
 
-
 /* Ausschnitt statt Handy (für kurze Screenshots) */
 .shot{width:380px;max-width:100%;border-radius:30px;overflow:hidden;position:relative;z-index:1;transform:rotate(-2deg);box-shadow:0 40px 80px rgba(15,46,46,.28);border:6px solid #fff}
 @media (max-width:420px){.shot{width:300px}}
+
+/* Ratgeber-Artikel */
+.article{max-width:740px;margin:0 auto;padding:30px 20px 80px}
+.article .crumbs{font-size:14px;color:var(--muted);margin-bottom:10px}
+.article .crumbs a{color:var(--muted)}
+.article h1{font-size:clamp(32px,5vw,46px);line-height:1.08;letter-spacing:-.035em;font-weight:900;color:var(--ink);margin:6px 0 10px}
+.article .meta{font-size:14px;color:var(--muted);margin-bottom:24px}
+.article h2{font-size:26px;letter-spacing:-.02em;margin:40px 0 12px;line-height:1.2}
+.article p,.article li{font-size:18px;line-height:1.7;color:#24383a;margin-bottom:12px}
+.article ul,.article ol{padding-left:24px;margin-bottom:12px}
+.article li{margin-bottom:10px}
+.article a{color:var(--ink);text-decoration-color:var(--lav);text-decoration-thickness:2px;text-underline-offset:3px}
+.tldr{background:var(--lime);border-radius:20px;padding:20px 24px;font-size:18px;line-height:1.6;margin:8px 0 10px}
+.cta-box{background:var(--ink);color:#fff;border-radius:28px;padding:32px;margin:44px 0 24px}
+.cta-box h2{color:#fff;margin-top:0}
+.cta-box p{color:rgba(255,255,255,.78)}
+.cta-box .btn{margin-top:10px;color:var(--ink);text-decoration:none}
+.article .note{font-size:15px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:16px 20px;color:var(--muted)}
+.article .sources li{font-size:14px;line-height:1.5;color:var(--muted);word-break:break-word}
+.article .more{font-size:15px;margin-top:24px}
+.lead-dark{font-size:20px;color:var(--muted);margin-bottom:28px}
+.rg-list{display:grid;gap:16px}
+.rg-card{display:block;background:#fff;border:1px solid var(--line);border-radius:24px;padding:26px;text-decoration:none!important;transition:transform .15s ease,box-shadow .15s ease}
+.rg-card:hover{transform:translateY(-3px);box-shadow:0 16px 40px rgba(15,46,46,.08)}
+.rg-card h2{margin:0 0 6px;font-size:23px}
+.rg-card p{margin:0 0 10px;color:var(--muted);font-size:17px}
+.rg-card span{font-weight:800;color:var(--ink)}
