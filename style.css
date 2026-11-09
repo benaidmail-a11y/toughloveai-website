@@ -160,3 +160,8 @@ footer a{margin-left:18px}
 /* Feature-Screens in natürlicher Höhe (kein Beschnitt) */
 .feature .phone .screen{aspect-ratio:auto}
 .feature .phone .screen img{height:auto}
+
+
+/* Ausschnitt statt Handy (für kurze Screenshots) */
+.shot{width:380px;max-width:100%;border-radius:30px;overflow:hidden;position:relative;z-index:1;transform:rotate(-2deg);box-shadow:0 40px 80px rgba(15,46,46,.28);border:6px solid #fff}
+@media (max-width:420px){.shot{width:300px}}
