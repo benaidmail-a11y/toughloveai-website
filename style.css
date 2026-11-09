@@ -191,3 +191,26 @@ footer a{margin-left:18px}
 .rg-card h2{margin:0 0 6px;font-size:23px}
 .rg-card p{margin:0 0 10px;color:var(--muted);font-size:17px}
 .rg-card span{font-weight:800;color:var(--ink)}
+
+/* Founder story */
+.founder{display:grid;grid-template-columns:1.15fr .85fr;gap:28px;align-items:stretch}
+.letter{background:var(--peach);border-radius:36px;padding:52px;position:relative;overflow:hidden}
+.letter::before{content:"\201E";position:absolute;right:28px;top:-40px;font-size:220px;line-height:1;font-weight:900;color:rgba(15,46,46,.07);font-family:Georgia,serif}
+.letter h2{margin:10px 0 18px}
+.letter p{font-size:18px;margin-bottom:14px;color:var(--ink2)}
+.letter strong{color:var(--ink)}
+.sign{margin-top:26px;display:flex;flex-direction:column}
+.sig{font-family:"Segoe Script","Brush Script MT","Snell Roundhand",cursive;font-size:38px;line-height:1.1;color:var(--ink);transform:rotate(-3deg);transform-origin:left;display:inline-block}
+.sign small{color:var(--muted);font-weight:700;margin-top:6px}
+.moment{text-align:left;background:var(--ink);color:#fff;border-radius:36px;padding:40px 32px;display:flex;flex-direction:column;gap:12px;position:relative;overflow:hidden}
+.moment::before{content:"";position:absolute;width:360px;height:360px;border-radius:50%;background:var(--lav);filter:blur(110px);opacity:.25;right:-140px;top:-140px}
+.clock{font-size:72px;font-weight:900;letter-spacing:-.03em;color:var(--lime);line-height:1;position:relative}
+.moment-label{color:rgba(255,255,255,.65);font-weight:700;font-size:14px;margin-bottom:12px;position:relative}
+.bubble{max-width:88%;padding:12px 16px;border-radius:20px;font-weight:600;font-size:15px;position:relative}
+.bubble.me{align-self:flex-end;background:var(--lime);color:var(--ink);border-radius:20px 20px 6px 20px}
+.bubble.bot{align-self:flex-start;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.14);border-radius:20px 20px 20px 6px}
+.sos{margin-top:auto;padding-top:22px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;position:relative}
+.sos span{width:100%;color:rgba(255,255,255,.65);font-weight:700;font-size:13px;letter-spacing:.08em;text-transform:uppercase}
+.sos b{background:var(--coral);color:#fff;padding:10px 16px;border-radius:99px;font-size:15px}
+.sos b+b{background:var(--lav);color:var(--ink)}
+@media (max-width:860px){.letter::before{display:none}.founder{grid-template-columns:1fr}.letter{padding:34px 24px}.moment{padding:32px 22px}.clock{font-size:60px}}
