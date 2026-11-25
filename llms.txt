@@ -15,6 +15,8 @@ ToughLove richtet sich an Erwachsene ab 18 Jahren, die wissen, was sie tun müss
 
 ## Seiten
 - [Startseite](https://toughloveai.com/): Überblick über App, Funktionen und Preise
+- [Français](https://toughloveai.com/fr/): page d’accueil en français
+- [English](https://toughloveai.com/en/): English homepage
 - [Ratgeber](https://toughloveai.com/ratgeber/): Artikel zu Abnehmen, Heißhunger, Stressessen, Gewohnheiten, Esstempo und Schlaf
 - [Heißhunger am Abend stoppen](https://toughloveai.com/ratgeber/heisshunger-abends.html)
 - [Abnehmen ohne Kalorienzählen](https://toughloveai.com/ratgeber/abnehmen-ohne-kalorienzaehlen.html)

@@ -225,3 +225,10 @@ footer a{margin-left:18px}
 .badge{position:absolute;top:-14px;right:22px;background:var(--lime);font-weight:800;font-size:13px;padding:5px 13px;border-radius:99px}
 .plans-note{text-align:center;color:var(--muted);font-size:14px;margin-top:20px}
 @media (max-width:900px){.plans{grid-template-columns:1fr}.per{min-height:0;margin-bottom:6px}}
+
+/* Sprachwahl (auch auf dem Handy sichtbar) */
+.langs{display:inline-flex;gap:4px}
+.nav-links .langs a{display:inline-block;font-size:13px;font-weight:800;padding:4px 8px;border-radius:99px;opacity:.7}
+.nav-links .langs a[aria-current]{opacity:1;background:rgba(212,242,90,.18)}
+@media (max-width:1100px){.nav-links{gap:14px}}
+@media (max-width:440px){.nav-links{gap:8px}.nav-links .btn{padding:8px 11px;font-size:12px}.brand{font-size:17px;gap:6px}.nav-links .langs a{padding:3px 5px}}
